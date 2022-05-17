@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="110130" started-at="2022-05-17T11:27:17 IST" finished-at="2022-05-17T11:29:08 IST">
+  <suite name="Suite" duration-ms="127531" started-at="2022-05-17T11:57:48 IST" finished-at="2022-05-17T11:59:56 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="110130" started-at="2022-05-17T11:27:17 IST" finished-at="2022-05-17T11:29:08 IST">
+    <test name="Test" duration-ms="127531" started-at="2022-05-17T11:57:48 IST" finished-at="2022-05-17T11:59:56 IST">
       <class name="com.actitime.testscripts.VerifyHomeTitleTest">
-        <test-method status="PASS" signature="Setup(java.lang.String)[pri:0, instance:com.actitime.testscripts.VerifyHomeTitleTest@6ee52dcd]" name="Setup" is-config="true" duration-ms="3301" started-at="2022-05-17T11:27:17 IST" finished-at="2022-05-17T11:27:21 IST">
+        <test-method status="PASS" signature="Setup(java.lang.String)[pri:0, instance:com.actitime.testscripts.VerifyHomeTitleTest@6ee52dcd]" name="Setup" is-config="true" duration-ms="5029" started-at="2022-05-17T11:57:48 IST" finished-at="2022-05-17T11:57:53 IST">
           <params>
             <param index="0">
               <value>
@@ -18,25 +18,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="loginSetup()[pri:0, instance:com.actitime.testscripts.VerifyHomeTitleTest@6ee52dcd]" name="loginSetup" is-config="true" duration-ms="19869" started-at="2022-05-17T11:27:21 IST" finished-at="2022-05-17T11:27:41 IST">
+        <test-method status="PASS" signature="loginSetup()[pri:0, instance:com.actitime.testscripts.VerifyHomeTitleTest@6ee52dcd]" name="loginSetup" is-config="true" duration-ms="21204" started-at="2022-05-17T11:57:53 IST" finished-at="2022-05-17T11:58:14 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginSetup -->
-        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.actitime.testscripts.VerifyHomeTitleTest@6ee52dcd]" name="verifyTitle" duration-ms="4651" started-at="2022-05-17T11:27:41 IST" finished-at="2022-05-17T11:27:45 IST">
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.actitime.testscripts.VerifyHomeTitleTest@6ee52dcd]" name="verifyTitle" duration-ms="6387" started-at="2022-05-17T11:58:14 IST" finished-at="2022-05-17T11:58:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTitle -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscripts.VerifyHomeTitleTest@6ee52dcd]" name="logout" is-config="true" duration-ms="3050" started-at="2022-05-17T11:27:45 IST" finished-at="2022-05-17T11:27:48 IST">
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscripts.VerifyHomeTitleTest@6ee52dcd]" name="logout" is-config="true" duration-ms="4134" started-at="2022-05-17T11:58:21 IST" finished-at="2022-05-17T11:58:25 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.actitime.testscripts.VerifyHomeTitleTest@6ee52dcd]" name="tearDown" is-config="true" duration-ms="1783" started-at="2022-05-17T11:27:48 IST" finished-at="2022-05-17T11:27:50 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.actitime.testscripts.VerifyHomeTitleTest@6ee52dcd]" name="tearDown" is-config="true" duration-ms="2297" started-at="2022-05-17T11:58:25 IST" finished-at="2022-05-17T11:58:27 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.actitime.testscripts.VerifyHomeTitleTest -->
       <class name="com.actitime.testscripts.CreateCustomerPageTest1">
-        <test-method status="PASS" signature="Setup(java.lang.String)[pri:0, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="Setup" is-config="true" duration-ms="2599" started-at="2022-05-17T11:27:50 IST" finished-at="2022-05-17T11:27:53 IST">
+        <test-method status="PASS" signature="Setup(java.lang.String)[pri:0, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="Setup" is-config="true" duration-ms="4398" started-at="2022-05-17T11:58:27 IST" finished-at="2022-05-17T11:58:32 IST">
           <params>
             <param index="0">
               <value>
@@ -47,37 +47,37 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="loginSetup()[pri:0, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="loginSetup" is-config="true" duration-ms="19346" started-at="2022-05-17T11:27:53 IST" finished-at="2022-05-17T11:28:12 IST">
+        <test-method status="PASS" signature="loginSetup()[pri:0, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="loginSetup" is-config="true" duration-ms="20000" started-at="2022-05-17T11:58:32 IST" finished-at="2022-05-17T11:58:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginSetup -->
-        <test-method status="PASS" signature="createnewccustomerwithname()[pri:1, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="createnewccustomerwithname" duration-ms="7950" started-at="2022-05-17T11:28:12 IST" finished-at="2022-05-17T11:28:20 IST">
+        <test-method status="PASS" signature="createnewccustomerwithname()[pri:1, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="createnewccustomerwithname" duration-ms="10769" started-at="2022-05-17T11:58:52 IST" finished-at="2022-05-17T11:59:02 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createnewccustomerwithname -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="logout" is-config="true" duration-ms="3051" started-at="2022-05-17T11:28:20 IST" finished-at="2022-05-17T11:28:23 IST">
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="logout" is-config="true" duration-ms="4030" started-at="2022-05-17T11:59:02 IST" finished-at="2022-05-17T11:59:07 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method status="PASS" signature="loginSetup()[pri:0, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="loginSetup" is-config="true" duration-ms="14915" started-at="2022-05-17T11:28:23 IST" finished-at="2022-05-17T11:28:38 IST">
+        <test-method status="PASS" signature="loginSetup()[pri:0, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="loginSetup" is-config="true" duration-ms="15413" started-at="2022-05-17T11:59:07 IST" finished-at="2022-05-17T11:59:22 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginSetup -->
-        <test-method status="PASS" signature="createnewCustomerWithNameAndDescription()[pri:2, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="createnewCustomerWithNameAndDescription" duration-ms="7795" started-at="2022-05-17T11:28:38 IST" finished-at="2022-05-17T11:28:46 IST">
+        <test-method status="PASS" signature="createnewCustomerWithNameAndDescription()[pri:2, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="createnewCustomerWithNameAndDescription" duration-ms="9588" started-at="2022-05-17T11:59:22 IST" finished-at="2022-05-17T11:59:32 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createnewCustomerWithNameAndDescription -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="logout" is-config="true" duration-ms="2808" started-at="2022-05-17T11:28:46 IST" finished-at="2022-05-17T11:28:49 IST">
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="logout" is-config="true" duration-ms="3405" started-at="2022-05-17T11:59:32 IST" finished-at="2022-05-17T11:59:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="tearDown" is-config="true" duration-ms="1790" started-at="2022-05-17T11:28:49 IST" finished-at="2022-05-17T11:28:50 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.actitime.testscripts.CreateCustomerPageTest1@458c1321]" name="tearDown" is-config="true" duration-ms="2333" started-at="2022-05-17T11:59:35 IST" finished-at="2022-05-17T11:59:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.actitime.testscripts.CreateCustomerPageTest1 -->
       <class name="com.actitime.testscripts.LoginTest">
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.actitime.testscripts.LoginTest@11438d26]" name="loginTest" duration-ms="17187" started-at="2022-05-17T11:28:50 IST" finished-at="2022-05-17T11:29:08 IST">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.actitime.testscripts.LoginTest@11438d26]" name="loginTest" duration-ms="18470" started-at="2022-05-17T11:59:37 IST" finished-at="2022-05-17T11:59:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
