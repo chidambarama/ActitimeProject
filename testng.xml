@@ -4,6 +4,7 @@
 <parameter name="browser" value="chrome"></parameter>
   <test thread-count="5" name="Test">
     <classes>
+      <class name="com.actitime.testscripts.LoginTest"/>
       <class name="com.actitime.testscripts.VerifyHomeTitleTest"/>
       <class name="com.actitime.testscripts.CreateCustomerPageTest1"/>
      
