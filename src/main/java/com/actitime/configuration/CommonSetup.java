@@ -37,7 +37,7 @@ public class CommonSetup {
 		
 		else
 		{
-			//WebDriverManager.chromedriver().setup();
+			WebDriverManager.chromedriver().setup();
 			driver=new ChromeDriver();
 		}
 	}
